@@ -1,0 +1,19 @@
+.wp-menu-image .dashicons-before .dashicons-admin-generic:before {
+    content: '\f145';
+}
+
+.line {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.updated p,
+.error p {
+    font-size: 14px;
+    color: red;
+}
+
+.updated strong,
+.error strong {
+    color: #4D4D4D;
+}
